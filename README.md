@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kbatue
-- You can find my apps on google play store from this [link](https://play.google.com/store/apps/dev?id=5447369805006879892){:target="_blank"}.
+- You can find my apps on google play store from this [link](https://play.google.com/store/apps/dev?id=5447369805006879892).
 - 📫 How to reach me batuermis@gmail.com
 
 <!---
