@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kbatue
-- 👀 I’m interested in Android
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- You can find my apps on google play store from this [link](https://play.google.com/store/apps/dev?id=5447369805006879892).
 - 📫 How to reach me batuermis@gmail.com
 
 <!---
