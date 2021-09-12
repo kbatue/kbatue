@@ -15,4 +15,4 @@ ___
 
 - You can reach my CV and current information via my [*Linkedin*](https://www.linkedin.com/in/kanibatuermis/) account.
 - 📱 I share the applications I developed on the Google Play Store. You can access my apps with this [*link*](https://play.google.com/store/apps/dev?id=5447369805006879892).
-- 📫 To contact me, you can contact me at this e-mail address -> batuermis@gmail.com
+- 📫 You can contact me at this e-mail address -> batuermis@gmail.com
